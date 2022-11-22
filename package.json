@@ -1,5 +1,5 @@
 {
-  "name": "kb",
+  "name": "byldpr",
   "version": "1.0.0",
   "description": "A simple CMS (BLOG) for manage posts",
   "main": "server.js",
