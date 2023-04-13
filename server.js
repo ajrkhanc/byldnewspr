@@ -26,7 +26,7 @@ app.set('view engine', 'ejs');
 mongoose.Promise = global.Promise;
 const connectionParams = {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
+    useUnifiedTopology: true, 
 }
 mongoose.connect(config.database, connectionParams)
     .then(() => {
